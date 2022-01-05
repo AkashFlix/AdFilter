@@ -8,7 +8,8 @@ class Translation(object):
     
 <b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ 😎
 
- I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @RequestHubFlix ] ᴀɴᴅ
+ I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ 😁.
+Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @RequestHubFlix ] ᴀɴᴅ
 Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 
 🔅 <b>@MoviesHubFlix</b> 🔅
