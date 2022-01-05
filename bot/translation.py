@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
     
-<b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kɪʀᴀ 😎
+<b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ 😎
 
  I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @RequestHubFlix ] ᴀɴᴅ
 Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
@@ -26,7 +26,7 @@ Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 <b>🔅 @MoviesHubFlix 🔅</b>
 """
     
-    ABOUT_TEXT = """<b>🔸 Name</b> : <b>Ⲕⲓʀⲁ Ϝⳑⲓⲭ</b>
+    ABOUT_TEXT = """<b>🔸 Name</b> : <b>Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</b>
     
 <b>🔹 Developer</b> : <b><i><a href="https://t.me/Bot_Flix">Bot_Flix</a></i></b>
 
